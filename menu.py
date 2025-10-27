@@ -1,5 +1,9 @@
-import acoes.py
-import cadlog.py
+from acoes.py import acoes
+from cadlog import cadastro
+from cadlog import login
+
+usuarios = {}
+saldos = {}
 
 while True:
     print("MENU PRINCIPAL")

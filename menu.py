@@ -1,4 +1,6 @@
-.
+import acoes.py
+import cadlog.py
+
 while True:
     print("MENU PRINCIPAL")
     print("1 - Cadastro")

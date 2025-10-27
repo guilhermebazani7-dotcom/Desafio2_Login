@@ -1,4 +1,4 @@
-from acoes.py import acoes
+from acoes import acoes
 from cadlog import cadastro
 from cadlog import login
 

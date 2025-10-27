@@ -5,6 +5,13 @@ from cadlog import login
 usuarios = {}
 saldos = {}
 
+
+def Cadastro():
+
+def Login():
+
+def Acoes():
+
 while True:
     print("MENU PRINCIPAL")
     print("1 - Cadastro")

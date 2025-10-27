@@ -1,5 +1,4 @@
-import menu.py
-import acoes.py
+from acoes import acoes
 
 usuarios = {}
 saldos = {}

@@ -1,3 +1,6 @@
+import menu.py
+import acoes.py
+
 usuarios = {}
 saldos = {}
 

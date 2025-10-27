@@ -1,3 +1,5 @@
+import cadlog.py
+import menu.py
 
 def acoes(nome):
     while True:
